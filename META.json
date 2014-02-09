@@ -40,7 +40,7 @@
          }
       }
    },
-   "release_status" : "testing",
+   "release_status" : "stable",
    "resources" : {
       "repository" : {
          "type" : "git",
@@ -48,5 +48,5 @@
          "web" : "https://github.com/neilbowers/Pod-Escapes"
       }
    },
-   "version" : "1.04_01"
+   "version" : "1.05"
 }
