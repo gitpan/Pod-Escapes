@@ -25,4 +25,4 @@ requires:
   warnings: 0
 resources:
   repository: git://github.com/neilbowers/Pod-Escapes.git
-version: 1.05
+version: 1.06
